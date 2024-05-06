@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dannasri Srinivasan</h1>
-<h3 align="center">Grad Student at UTA</h3>
+<h3 align="center">Software QA at Tesla</h3>
 
 - 🌱 I’m currently learning **SwiftUI**
 
